@@ -1,4 +1,4 @@
-# Project: Condo for Sale in Cambodia
+# Motorcycle price forecast
 
 This project aims to analyze and predict the prices of condos for sale in Cambodia using data science techniques. It involves web scraping, data preprocessing, exploratory data analysis, feature engineering, model selection, and decision making. The project was conducted as part of the Programming for Data Science course at the Institute of Technology of Cambodia.
 
